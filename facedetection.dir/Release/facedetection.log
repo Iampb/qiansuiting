@@ -1,0 +1,9 @@
+﻿cl : 命令行  warning D9002: 忽略未知选项“-mavx2”
+cl : 命令行  warning D9002: 忽略未知选项“-mfma”
+  facedetectcnn.cpp
+F:\qianshuiting\libfacedetection-master\src\facedetectcnn.cpp(871,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\qianshuiting\libfacedetection-master\src\facedetectcnn.cpp(872,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\qianshuiting\libfacedetection-master\src\facedetectcnn.cpp(873,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\qianshuiting\libfacedetection-master\src\facedetectcnn.cpp(874,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\qianshuiting\libfacedetection-master\src\facedetectcnn.cpp(877,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  facedetection.vcxproj -> F:\qianshuiting\libfacedetection-master\build\Release\facedetection.lib

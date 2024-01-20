@@ -1,0 +1,10 @@
+^F:\QIANSHUITING\LIBFACEDETECTION-MASTER\CMAKELISTS.TXT
+setlocal
+F:\qianshuiting\cmake-3.25.0-rc4-windows-x86_64\bin\cmake.exe -SF:/qianshuiting/libfacedetection-master -BF:/qianshuiting/libfacedetection-master/build --check-stamp-file F:/qianshuiting/libfacedetection-master/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

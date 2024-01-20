@@ -1,0 +1,12 @@
+﻿cl : 命令行  warning D9002: 忽略未知选项“-mavx2”
+cl : 命令行  warning D9002: 忽略未知选项“-mfma”
+  detect-camera.cpp
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x1569 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x156a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x3bc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x3bcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x3bcc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x3bce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x3bcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\qianshuiting\libfacedetection-master\example\detect-camera.cpp(1,1): warning C4828: 文件包含在偏移 0x3bd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  detect-camera-demo.vcxproj -> F:\qianshuiting\libfacedetection-master\build\Release\detect-camera-demo.exe

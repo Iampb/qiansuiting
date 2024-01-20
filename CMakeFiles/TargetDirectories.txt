@@ -1,0 +1,7 @@
+F:/qianshuiting/libfacedetection-master/build/CMakeFiles/facedetection.dir
+F:/qianshuiting/libfacedetection-master/build/CMakeFiles/detect-image-demo.dir
+F:/qianshuiting/libfacedetection-master/build/CMakeFiles/detect-camera-demo.dir
+F:/qianshuiting/libfacedetection-master/build/CMakeFiles/benchmark.dir
+F:/qianshuiting/libfacedetection-master/build/CMakeFiles/INSTALL.dir
+F:/qianshuiting/libfacedetection-master/build/CMakeFiles/ALL_BUILD.dir
+F:/qianshuiting/libfacedetection-master/build/CMakeFiles/ZERO_CHECK.dir
